@@ -2716,6 +2716,7 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.4.17:
+
   version "1.4.70"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.70.tgz#b389047a844ccc84bd185f480f52d2b6306a4cfd"
   integrity sha512-joSEu0IwP/rOY8mHcQ6J2MEm5GgsvVcrNDSGg2wQiV0epjsq6pNvRk4UA2nqV8aK0PPL+Z1Z/uD73bG8swzroA==
